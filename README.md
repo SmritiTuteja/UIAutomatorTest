@@ -1,4 +1,4 @@
-# UIAutomatorTest
+# Android Mobile Automation using UIAutomator
 This repository contains basic script to view current date and time on Clock app in Android using UIAutomator.
 
 ‘UI Automator’ is used for executing Automation scripts for Android under UI Testing. UI testing ensures that the app returns the correct UI output in response to a user actions on a device, say keyboard input or pressing toolbars, menus, dialogs, images, and other UI controls. It reduces a lot of manual testing job and saves a lot of time.
